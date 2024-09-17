@@ -1,0 +1,23 @@
+body{
+    background-image: url('pic/blue-background-7470781_1920.jpg');
+    background-attachment:fixed;
+    background-repeat: no-repeat;
+    
+}
+h1{
+    font-family:Verdana, Geneva, Tahoma, sans-serif
+    
+}
+a:hover{
+    color: blue;
+}
+a:active{
+    color:blueviolet;
+}
+a:visited{
+    color:wheat;
+}
+button{
+    color:black;
+}
+   
